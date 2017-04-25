@@ -1,2 +1,3 @@
 name: Jagori Samajdar, VR Beginner
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
