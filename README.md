@@ -1,1 +1,1 @@
-## Blog On Virtual Reality For Beginners
+## A Virtual Reality Blog For Beginners
